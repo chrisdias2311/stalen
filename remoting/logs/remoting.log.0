@@ -1,0 +1,27 @@
+Oct 31, 2023 8:59:51 AM hudson.remoting.jnlp.Main createEngine
+INFO: Setting up agent: albion_node
+Oct 31, 2023 8:59:51 AM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3131.vf2b_b_798b_ce99
+Oct 31, 2023 8:59:51 AM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using E:\Eng notes\SEM 5\Devops_Pracs\remoting as a remoting work directory
+Oct 31, 2023 8:59:52 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+Oct 31, 2023 8:59:52 AM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver resolve
+INFO: Remoting server accepts the following protocols: [JNLP4-connect, Ping]
+Oct 31, 2023 8:59:52 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Agent discovery successful
+  Agent address: localhost
+  Agent port:    49683
+  Identity:      30:57:dc:ae:1a:8a:31:d3:40:09:5d:16:f3:84:bb:ca
+Oct 31, 2023 8:59:52 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Handshaking
+Oct 31, 2023 8:59:52 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connecting to localhost:49683
+Oct 31, 2023 8:59:52 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Trying protocol: JNLP4-connect
+Oct 31, 2023 8:59:52 AM org.jenkinsci.remoting.protocol.impl.BIONetworkLayer$Reader run
+INFO: Waiting for ProtocolStack to start.
+Oct 31, 2023 8:59:52 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Remote identity confirmed: 30:57:dc:ae:1a:8a:31:d3:40:09:5d:16:f3:84:bb:ca
+Oct 31, 2023 8:59:52 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connected
